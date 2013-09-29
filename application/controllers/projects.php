@@ -19,7 +19,7 @@ class projects extends CI_Controller {
 	 */
 	public function index()
 	{
-		$title = array('title'=>'This is my home page!','base_url'=>$this->config->base_url());
+		$title = array('title'=>'This is my home page!','base_url'=>$this->config->base_url(), 'active'=>2);
 		$this->load->view('head',$title);
 		$this->load->view('projects');
 	}

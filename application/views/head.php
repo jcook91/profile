@@ -1,36 +1,11 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-<<<<<<< HEAD
-	<title><?= $title ?></title>
-    <link href='<?= $base_url ?>css/bootstrap.min.css' rel='stylesheet' type='text/css'>
-    <link href='<?= $base_url ?>css/bootstrap-responsive.css' rel='stylesheet' type='text/css'>
-    <script src='<?= $base_url ?>js/jquery-1.8.3.min.js'></script>
-    <script src='<?= $base_url ?>js/bootstrap.min.js'></script>
-    <div class="container">
-	<div class="masthead">
-    	<h3 class="muted">Jessica Cook</h3>
-        <div class="navbar">
-        	<div class="navbar-inner">
-            	<div class="container">
-                	<ul class="nav">
-                    	<li class="Active"><a href="#">Home</a></li>
-                        <li><a href="#">Projects</a></li>
-                        <li><a href="#">Resume</a></li>
-                        <li><a href="#">Contact</a></li>
-                    </ul>
-                 </div>
-              </div>
-         </div>
-         <!-- /.navbar -->
-       </div>
-=======
 	<title><?php echo $title ?></title>
     <link href='<?php echo $base_url ?>css/bootstrap.min.css' rel='stylesheet' type='text/css'>
     <link href='<?php echo $base_url ?>css/bootstrap-responsive.css' rel='stylesheet' type='text/css'>
     <script src='<?php echo $base_url ?>js/jquery-1.8.3.min.js'></script>
     <script src='<?php echo $base_url ?>js/bootstrap.min.js'></script>
->>>>>>> 41e3256ae4154810994ffb5394763de617f508be
     <style type="text/css">
 			body {
 				padding-top:20px;
@@ -100,10 +75,10 @@
         	<div class="navbar-inner">
             	<div class="container">
                 	<ul class="nav">
-                    	<li class="Active"><a href="#">Home</a></li>
-                        <li><a href="#">Projects</a></li>
-                        <li><a href="#">Resume</a></li>
-                        <li><a href="#">Contact</a></li>
+                    	<li <?php echo ($active==1 ? 'class="Active"' : ''); ?>><a href="<?php echo $base_url ?>">Home</a></li>
+                        <li <?php echo ($active==2 ? 'class="Active"' : ''); ?>><a href="<?php echo $base_url ?>index.php/projects">Projects</a></li>
+                        <li <?php echo ($active==3 ? 'class="Active"' : ''); ?>><a href="#">Resume</a></li>
+                        <li <?php echo ($active==4 ? 'class="Active"' : ''); ?>><a href="#">Contact</a></li>
                     </ul>
                  </div>
               </div>

@@ -10,22 +10,6 @@
     }
 </style>
 
-<<<<<<< HEAD
-<div id="container">
-	SECOND PAGE<br />
-	<a href='taco'>Another Page</a> 
-</div>
-</div>
-<div id="Projects">
-	<table border="0" cellpadding="0" cellspacing="0">
-    	<tbody>
-        	<tr>
-            </tr>
-        </tbody>
-   	</table>
-   	<div class='row-fluid'>
-    	<div class='span3'>
-=======
 <!-- PROJECT LIST ELEMENT -->
 <div class='row-fluid'>
     <div class='span12' style='padding-top:30px;'>
@@ -57,19 +41,19 @@
                     <div class='span3 bordered height110'>PIC
                     </div>
                 </div>
->>>>>>> 41e3256ae4154810994ffb5394763de617f508be
         </div>
     </div>
 </div>
 
 <!-- PROJECT LIST ELEMENT -->
+<!--
 <div class='row-fluid'>
     <div class='span12' style='padding-top:30px;'>
         <div class='row-fluid padding'>
             <div class='span4 bordered' style='height:300px;'>
                 PIC
             </div>
-<<<<<<< HEAD
+
             <span class="info">
             	"When three friends make a time machine, they have to decide which time period to travel to. While two of them argue over the destination, the third is busy traveling."
             </span>
@@ -103,20 +87,21 @@
             	"Long ago there was a rebel uprising in Mordenia with the goal of overthrowing the Queen. A new, corrupt leader took over and the Noric family stole something from her. She'll stop at nothing to get it back."
             </span>
 =======
-            <div class='span6'>
+            <div class='span6'>-->
                 <!--PROJECT TITLE-->
+                <!--
                 <div class='row-fluid'>
                     <div class='span12'>
                         <h3>Project Title</h3>
                     </div>
                 </div>
-                <!--PROJECT DESCRIPTION-->
+               
                 <div class='row-fluid'>
                     <div class='span12 height110'>
                         <p>PROJECT DESCRIPTION</p>
                     </div>
                 </div>
-                <!--PICTURE SHOW -->
+                PICTURE SHOW 
                 <div class='row-fluid padding'>
                     <div class='span3 bordered height110'>PIC
                     </div>
@@ -130,4 +115,4 @@
 >>>>>>> 41e3256ae4154810994ffb5394763de617f508be
         </div>
     </div>
-</div>
+</div>-->
