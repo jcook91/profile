@@ -1,8 +1,13 @@
+<<<<<<< HEAD
 <body>
       	<div class="jumbotron">
+=======
+
+       <div class="jumbotron">
+>>>>>>> 41e3256ae4154810994ffb5394763de617f508be
        	<h1>Script Supervisor/Animator</h1>
         <p class="lead">
-        	"Hello! My name is Jessica Cook and I am a film maker! Thank you for visiting my page. Here you'll find out a little bit about who I am, the work I've completed, and where I hope to go on my journey through life."
+        	"Hello! My name is NOT Jessica Cook and I am a film maker! Thank you for visiting my page. Here you'll find out a little bit about who I am, the work I've completed, and where I hope to go on my journey through life."
         </p>
        </div>
        <hr>
