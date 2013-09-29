@@ -1,21 +1,4 @@
-<body>
-<div class="container">
-	<div class="masthead">
-    	<h3 class="muted">Jessica Cook</h3>
-        <div class="navbar">
-        	<div class="navbar-inner">
-            	<div class="container">
-                	<ul class="nav">
-                    	<li class="Active"><a href="#">Home</a></li>
-                        <li><a href="#">Projects</a></li>
-                        <li><a href="#">Resume</a></li>
-                        <li><a href="#">Contact</a></li>
-                    </ul>
-                 </div>
-              </div>
-         </div>
-         <!-- /.navbar -->
-       </div>
+
        <div class="jumbotron">
        	<h1>Script Supervisor/Animator</h1>
         <p class="lead">

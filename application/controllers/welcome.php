@@ -19,7 +19,7 @@ class Welcome extends CI_Controller {
 	 */
 	public function index()
 	{
-		$title = array('title'=>'This is my home page!','base_url'=>'http://localhost/code_igniter_site/');
+		$title = array('title'=>'This is my home page!','base_url'=>'http://localhost/profile/');
 		$this->load->view('head',$title);
 		$this->load->view('home');
 	}

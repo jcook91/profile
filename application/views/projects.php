@@ -1,21 +1,4 @@
-<body>
 
-<div id="container">
-	SECOND PAGE<br />
-	<a href='taco'>Another Page</a> 
-</div>
-<div class="navbar">
-        	<div class="navbar-inner">
-            	<div class="container">
-                	<ul class="nav">
-                    	<li><a href="#">Home</a></li>
-                        <li class="Active"><a href="#">Projects</a></li>
-                        <li><a href="#">Resume</a></li>
-                        <li><a href="#">Contact</a></li>
-                    </ul>
-                </div>
-            </div>
-</div>
 <div id="Projects">
 	<table border="0" cellpadding="0" cellspacing="0">
     	<tbody>
