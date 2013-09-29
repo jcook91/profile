@@ -70,7 +70,7 @@
 <body>
 <div class="container">
 	<div class="masthead">
-    	<h3 class="muted">Jessica Cook</h3>
+    	<h3 class="muted">Jessica Cook Sucks</h3>
         <div class="navbar">
         	<div class="navbar-inner">
             	<div class="container">
