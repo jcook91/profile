@@ -6,6 +6,23 @@
     <link href='<?= $base_url ?>css/bootstrap-responsive.css' rel='stylesheet' type='text/css'>
     <script src='<?= $base_url ?>js/jquery-1.8.3.min.js'></script>
     <script src='<?= $base_url ?>js/bootstrap.min.js'></script>
+    <div class="container">
+	<div class="masthead">
+    	<h3 class="muted">Jessica Cook</h3>
+        <div class="navbar">
+        	<div class="navbar-inner">
+            	<div class="container">
+                	<ul class="nav">
+                    	<li class="Active"><a href="#">Home</a></li>
+                        <li><a href="#">Projects</a></li>
+                        <li><a href="#">Resume</a></li>
+                        <li><a href="#">Contact</a></li>
+                    </ul>
+                 </div>
+              </div>
+         </div>
+         <!-- /.navbar -->
+       </div>
     <style type="text/css">
 			body {
 				padding-top:20px;
